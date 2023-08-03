@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "ios_push_notification" "\0"
+            VALUE "FileDescription", "iosPushNotification" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "ios_push_notification" "\0"
+            VALUE "InternalName", "iosPushNotification" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "ios_push_notification.exe" "\0"
-            VALUE "ProductName", "ios_push_notification" "\0"
+            VALUE "OriginalFilename", "iosPushNotification.exe" "\0"
+            VALUE "ProductName", "iosPushNotification" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

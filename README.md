@@ -1,4 +1,4 @@
-# ios_push_notification
+# iosPushNotification
 
 A new Flutter project.
 

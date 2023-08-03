@@ -1,4 +1,4 @@
-package com.example.ios_push_notification
+package com.example.iosPushNotification
 
 import io.flutter.embedding.android.FlutterActivity
 
