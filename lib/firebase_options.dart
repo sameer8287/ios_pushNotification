@@ -63,7 +63,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '23437909199',
     projectId: 'iospushnotification-2829d',
     storageBucket: 'iospushnotification-2829d.appspot.com',
-    iosClientId: '23437909199-1abi7d2kuc0t9cddcvbcera2qgerguet.apps.googleusercontent.com',
-    iosBundleId: 'com.example.iosPushNotification',
+    iosClientId:
+        '23437909199-1abi7d2kuc0t9cddcvbcera2qgerguet.apps.googleusercontent.com',
+    iosBundleId: 'com.example.iostest',
   );
 }

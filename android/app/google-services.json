@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:23437909199:android:f650be7d16a3c9cd0b6bba",
         "android_client_info": {
-          "package_name": "com.example.iosPushNotification"
+          "package_name": "com.example.iostest"
         }
       },
       "oauth_client": [
@@ -34,7 +34,7 @@
               "client_id": "23437909199-1abi7d2kuc0t9cddcvbcera2qgerguet.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.iosPushNotification"
+                "bundle_id": "com.example.iostest"
               }
             }
           ]
